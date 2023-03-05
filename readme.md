@@ -7,4 +7,4 @@
  `TOKEN = "122234535235:bfdajfljlgdjglajYyuuuuYYyfndfk"`
 
 2. После проделанного запустить файл main.py
-*Необязательно, но возможно менять hashtag в файле config.py*
+   *Необязательно, но возможно менять hashtag в файле config.py*
