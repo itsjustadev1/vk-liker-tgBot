@@ -3,6 +3,7 @@
    Внутри файла после изменений все должно выглядеть примерно так:
 
 `access_token = "vk.1.aabc12323rtyU-dfdfaga-gdagjlgldjadfgadgadsgagasdgdgfgkahhkjadY"
+
  TOKEN = "122234535235:bfdajfljlgdjglajYyuuuuYYyfndfk"`
 
 2. После проделанного запустить файл main.py
